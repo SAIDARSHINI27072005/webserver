@@ -57,18 +57,19 @@ print("This is my webserver")
 server_address =('',80)
 httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()
+```
 
-## OUTPUT:
+# output:
 server output:
+![Alt text](image.png)
 
-![image](https://github.com/SAIDARSHINI27072005/webserver/assets/147474227/3998e606-d007-4a1b-8469-bfc7bb518f3d)
+
 
 client output:
-
-![image](https://github.com/SAIDARSHINI27072005/webserver/assets/147474227/d62e5e37-371e-421f-a8ad-aa363cdfdf9e)
-
+![Alt text](image-1.png)
 
 
 
-## RESULT:
+
+# result:
 The program is executed succesfully
