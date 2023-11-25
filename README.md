@@ -59,7 +59,8 @@ httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()
 
 ## OUTPUT:
-![Uploading Screenshot (29).png…]()
+![image](https://github.com/SAIDARSHINI27072005/webserver/assets/147474227/feab93a0-418e-4c7d-9757-945821ee418f)
+
 
 
 ## RESULT:
