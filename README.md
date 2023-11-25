@@ -59,7 +59,14 @@ httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()
 
 ## OUTPUT:
-![image](https://github.com/SAIDARSHINI27072005/webserver/assets/147474227/feab93a0-418e-4c7d-9757-945821ee418f)
+server output:
+
+![image](https://github.com/SAIDARSHINI27072005/webserver/assets/147474227/3998e606-d007-4a1b-8469-bfc7bb518f3d)
+
+client output:
+
+![image](https://github.com/SAIDARSHINI27072005/webserver/assets/147474227/d62e5e37-371e-421f-a8ad-aa363cdfdf9e)
+
 
 
 
