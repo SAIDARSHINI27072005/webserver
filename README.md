@@ -63,7 +63,8 @@ Testing the webserver
 
 # Output:
 
-![image](https://github.com/SAIDARSHINI27072005/webserver/assets/147474227/f25150aa-a4a9-40a7-abcc-1e4706ae1ed0)
+![image](https://github.com/SAIDARSHINI27072005/webserver/assets/147474227/cb008dd5-2597-4dd7-a4a0-6a4a9ab9844a)
+
 
 
 
